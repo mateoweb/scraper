@@ -1,0 +1,2 @@
+# scraper
+Scrapy scraper project
